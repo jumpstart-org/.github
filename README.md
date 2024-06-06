@@ -1,1 +1,1 @@
-We help businesses and students create standout websites and achieve digital goals. Let us bring your vision to life!
+Helping businesses and students create standout websites, projects and achieve other web-related tasks. Connect with us to start!
