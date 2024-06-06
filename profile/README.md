@@ -6,9 +6,9 @@
 
 Hello, Welcome to JumpStart! 🚀
 
-We're an organization dedicated to helping businesses and students by crafting standout websites and achieving
-their digital aspirations. Our passion lies in developing innovative, real-world tools and projects for both
-developers and end-users, making cutting-edge solutions accessible to all.
+We're an organization dedicated to helping businesses and students by creating easy to use and optimized websites
+and achieving their digital aspirations. Our passion lies in developing innovative, real-world tools and projects
+for bothdevelopers and end-users, making cutting-edge solutions accessible to all.
 
 ```
 
